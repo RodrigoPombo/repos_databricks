@@ -12,3 +12,12 @@ print("Yyyyyyy")
 
 # MAGIC %python
 # MAGIC print("vnet")
+
+# COMMAND ----------
+
+# MAGIC %python
+# MAGIC zxczx 
+
+# COMMAND ----------
+
+
