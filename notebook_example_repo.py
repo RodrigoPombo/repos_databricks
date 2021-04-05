@@ -7,3 +7,8 @@
 
 print("Yyyyyyy")
 
+
+# COMMAND ----------
+
+# MAGIC %python
+# MAGIC print("vnet")
