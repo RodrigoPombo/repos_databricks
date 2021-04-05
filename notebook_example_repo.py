@@ -4,5 +4,6 @@
 
 # COMMAND ----------
 
-# MAGIC %python
-# MAGIC prtin("oiiiuuu")
+
+print("Yyyyyyy")
+
