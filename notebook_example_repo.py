@@ -20,4 +20,4 @@ print("Yyyyyyy")
 
 # COMMAND ----------
 
-
+# MAGIC %python print"x"
