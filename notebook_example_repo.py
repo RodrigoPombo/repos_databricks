@@ -1,10 +1,6 @@
 # Databricks notebook source
-
-
-# COMMAND ----------
-
 # MAGIC %python
-# MAGIC print("x")
+# MAGIC print("zzzzzzzzzzzzzzzzzzzzz")
 
 # COMMAND ----------
 
@@ -14,5 +10,5 @@
 # COMMAND ----------
 
 # MAGIC %python
-
+# MAGIC 
 # MAGIC print("xxxxxxxxx")
