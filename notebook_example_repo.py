@@ -14,4 +14,5 @@
 # COMMAND ----------
 
 # MAGIC %python
+
 # MAGIC print("xxxxxxxxx")
