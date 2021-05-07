@@ -1,14 +1,17 @@
 # Databricks notebook source
+
+
+# COMMAND ----------
+
 # MAGIC %python
 # MAGIC print("x")
 
 # COMMAND ----------
 
-
-print("Yyyyyyy")
-
+# MAGIC %python
+# MAGIC print("vnet")
 
 # COMMAND ----------
 
 # MAGIC %python
-# MAGIC print("vnet")
+# MAGIC print("xxxxxxxxx")
